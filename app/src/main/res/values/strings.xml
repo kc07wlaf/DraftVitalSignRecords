@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Draft-VitalSignRecords</string>
+    <string name="enter_record_button">Enter New Record</string>
+    <string name="lookup_record_button">Lookup/Update Record</string>
+    <string name="enter_new_record_page_intro">You can enter new record on this page</string>
+</resources>
